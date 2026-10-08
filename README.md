@@ -15,4 +15,4 @@ An AI-powered diagnostic assistant designed to help FIRST Tech Challenge robotic
 
 ## Repository Contents
 *   `system_instructions.md`: The core system prompts defining the agent's persona and logic boundaries.
-*   `demo.mp4` / `screenshots`: Visual proof of the agent successfully diagnosing a simulated FTC hardware failure.
+*   `demo_chat.pdf`: Visual proof of the agent successfully diagnosing a simulated FTC hardware failure.
